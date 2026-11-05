@@ -1,0 +1,8 @@
+.venv/
+build/
+dist/
+build_tess/
+__pycache__/
+*.spec
+*.exe
+build_log.txt

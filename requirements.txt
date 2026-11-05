@@ -1,0 +1,6 @@
+opencv-python-headless
+numpy
+mss
+pytesseract
+pydirectinput
+keyboard
